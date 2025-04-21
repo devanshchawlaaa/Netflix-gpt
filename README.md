@@ -1,4 +1,5 @@
 # Netflix GPT
+
 - Create React App
 - Configured Tailwind CSS
 - Header
@@ -19,6 +20,20 @@
 - Add Hardcoded values to constants
 - Register TMDB Api & create an app and gett access token
 - Get data from TMDB Now pLaying movies list api
+- Custom Hooks for Now Playing Movies
+- Create movie slice
+- Update store with movies data
+- Planning for Main & Secondary Container
+- Fetch data for Trailer video
+- Update store with trailer video data
+- Embedded the youtube video and make it autoplay and mute
+- Tailwind classes to make main container look awesome
+- Build Secondary Component
+- Build movie list
+- Build movie card
+- TMDB Image cdn url
+- Made Browse Page look amazing with Tailwind CSS
+- usePopularMovies custom hook
 
 # Features-
 - Login / Signup
