@@ -4,6 +4,8 @@ export const USER_AVATAR = 'https://occ-0-1492-3662.1.nflxso.net/dnm/api/v6/vN7b
 
 export const IMG_CDN = 'https://image.tmdb.org/t/p/w200/'
 
+export const BG_URL = "https://assets.nflxext.com/ffe/siteui/vlv3/fa4630b1-ca1e-4788-94a9-eccef9f7af86/web/IN-en-20250407-TRIFECTA-perspective_43f6a235-9f3d-47ef-87e0-46185ab6a7e0_small.jpg"
+
 export const API_OPTIONS = {
     method: 'GET',
     headers: {
@@ -11,3 +13,18 @@ export const API_OPTIONS = {
       Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxYWY2NGY1ZTFiNTUzNjYwOGIxNjNlMjY2MmFmZmU3YSIsIm5iZiI6MTc0NTA2NDg1Ni44NTQsInN1YiI6IjY4MDM5Mzk4ZTQ3NTM0MjVlZmFkNzFmNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.9JCLpY90X-zI4L71owBx7_kYBOfxXrM9YzFGL6Mz_kw'
     }
 };
+
+export const SUPPORTED_LANGUAGES = [
+  {
+    id: 'en',
+    name: 'English'
+  },
+  {
+    id: 'hindi',
+    name: 'Hindi'
+  },
+  {
+    id: 'spanish',
+    name: 'Spanish'
+  },
+]
